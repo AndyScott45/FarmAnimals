@@ -1,0 +1,47 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+  background:white;
+}
+.arctic h1{
+  font-family: sans-serif;
+  font-size: 20px;
+  color:#e75480;
+  padding-bottom: 1px;
+}
+
+.arctic ul li{
+  font-family: sans-serif;
+  font-size: 14px;
+  color:black;
+padding-top: 3px;
+}
+.arctic ul h2{
+  font-family: sans-serif;
+  font-size: 25px;
+  color:#32cd32;
+  padding-top: 5px;
+}
+
+.arctic ul p{
+font-family: sans-serif;
+font-size: 15px;
+padding-top: 5px;
+}
+
+.arctic ul h3{
+  font-family: sans-serif;
+  font-size: 19px;
+  color:#32cd32;
+  padding-top: 5px;
+}
+
+.arctic ul h3 p{
+  font-family: sans-serif;
+  font-size: 25px;
+  padding-top: 5px;
+}
